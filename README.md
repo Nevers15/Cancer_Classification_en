@@ -9,6 +9,8 @@
 
 As part of the research, the task was to develop a model for the classification of cancer cells based on available medical data. The project aimed to create a tool for more accurate and rapid detection of diseases, which could significantly increase the effectiveness of treatment and save patients' lives.
 
+### Objectives:
+
 1.	Selection of an effective model for the classification of cancer cells into benign or malignant to enhance the efficiency of disease diagnosis and treatment.
 2.	Increasing the accuracy of determining the type of cancer cells, which can contribute to the timely initiation of treatment and improve chances of recovery.
 
